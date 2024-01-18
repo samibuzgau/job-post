@@ -18,6 +18,7 @@
 - Add loading spinners or skeleton screens for a better user experience.
 - Include transitions or animations using Material-UI for a polished look.
 - Implement client-side pagination for the list of blog post listings.
+- API base url is: https://simplylearn.dev/wp-json/wp/v2
 
 ### Submission
 - Fork this repo to your onw GitHub
